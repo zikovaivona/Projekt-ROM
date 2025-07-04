@@ -13,3 +13,4 @@ Aplikacija bo analizirala nekatere matematično zanimive datume v zgodovini in j
   - Grafični prikaz trendov pojavljanja "posebnih datumov".
 ## Video: 
 https://www.youtube.com/watch?v=m11P8fVwijk&ab_channel=IvonaZikova 
+Pripravil: Ivona Zikova
