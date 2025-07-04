@@ -11,3 +11,4 @@ Aplikacija bo analizirala nekatere matematično zanimive datume v zgodovini in j
 4. Interaktivni uporabniški vmesnik:
   - Uporabnik vnese leto ali mesec, aplikacija pa vrne analiziran rezultat.
   - Grafični prikaz trendov pojavljanja "posebnih datumov".
+## Video: https://www.youtube.com/watch?v=m11P8fVwijk&ab_channel=IvonaZikova 
